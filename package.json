@@ -1,0 +1,16 @@
+{
+"name": "akbet28",
+"theme": "akbet28",
+"version": "4.1.7",
+"description": "akbet28 สมัครเว็บไซต์คาสิโนเว็บตรง อันดับ 1 แจกโบนัสเครดิตฟรี",
+"keywords": [
+"akbet28",
+"akbet28 เครดิตฟรี",
+"akbet28 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/akbet28",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
